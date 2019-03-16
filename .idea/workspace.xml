@@ -10,31 +10,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeMePresente3/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeMePresente3/table.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JeMePresente3/css/style.css">
+        <entry file="file://$PROJECT_DIR$/HanSolo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+            <state relative-caret-position="340">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="23" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HanSolo/css/style.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -42,10 +29,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img</find>
+      <find>section</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,15 +58,19 @@
         <option value="$PROJECT_DIR$/HelloCSSWord/index.html" />
         <option value="$PROJECT_DIR$/JeMePresente3/css/style.css" />
         <option value="$PROJECT_DIR$/JeMePresente3/index.html" />
+        <option value="$PROJECT_DIR$/HanSolo/css.css" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/HanSolo/css/style.css" />
+        <option value="$PROJECT_DIR$/HanSolo/index.html" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1917" />
-    <option name="y" value="-15" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1877" />
+    <option name="y" value="-13" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -92,40 +89,12 @@
             <path>
               <item name="SuzanneHuard" type="b2602c69:ProjectViewProjectNode" />
               <item name="SuzanneHuard" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloCSSWord" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SuzanneHuard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SuzanneHuard" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloCSSWord" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SuzanneHuard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SuzanneHuard" type="462c0819:PsiDirectoryNode" />
-              <item name="JeMePresente" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SuzanneHuard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SuzanneHuard" type="462c0819:PsiDirectoryNode" />
-              <item name="JeMePresente2" type="462c0819:PsiDirectoryNode" />
+              <item name="HanSolo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SuzanneHuard" type="b2602c69:ProjectViewProjectNode" />
               <item name="SuzanneHuard" type="462c0819:PsiDirectoryNode" />
               <item name="JeMePresente3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SuzanneHuard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SuzanneHuard" type="462c0819:PsiDirectoryNode" />
-              <item name="JeMePresente3" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SuzanneHuard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SuzanneHuard" type="462c0819:PsiDirectoryNode" />
-              <item name="JeMePresente3" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,10 +114,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\HanSolo" />
+      <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\new" />
+      <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard" />
+      <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\HanSolo\.idea" />
       <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\HelloCSSWord" />
-      <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\JeMePresente\img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\HanSolo" />
       <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\JeMePresente3" />
       <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\JeMePresente3\img" />
       <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard" />
@@ -181,16 +154,18 @@
       <workItem from="1551742943450" duration="7499000" />
       <workItem from="1552003905276" duration="7139000" />
       <workItem from="1552606290234" duration="7633000" />
+      <workItem from="1552741075209" duration="1488000" />
+      <workItem from="1552742836710" duration="9486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22309000" />
+    <option name="totallyTimeSpent" value="33283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18603411" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19029851" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -210,6 +185,27 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19029851" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32914573" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -252,20 +248,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-end-line="12" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloCSSWord/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -283,21 +265,58 @@
     <entry file="file://$PROJECT_DIR$/JeMePresente3/table.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HanSolo/index.html" />
+    <entry file="file://$PROJECT_DIR$/HanSolo/img/Han Solo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HanSolo/img/chewbacca.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HanSolo/css.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente3/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="22" selection-start-line="18" selection-end-line="18" selection-end-column="82" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresente3/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
-          <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente3/css/style.css">
+    <entry file="file://$PROJECT_DIR$/JeMePresente2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HanSolo/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HanSolo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="23" />
         </state>
       </provider>
     </entry>
