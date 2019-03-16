@@ -1,0 +1,61 @@
+/* Test */
+/* Programmé par Suzanne Huard */
+/* Le 8 mars 2019 */
+
+body
+{
+    width: 900px;
+    margin: auto;
+    background: url(../img/mesh-1430107_1280.png);
+    background-color: azure;
+}
+
+h1, h2
+{
+    text-align: center;
+    color: blue;
+}
+
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 24px;
+}
+
+p {
+    font-size: 14px;
+    text-align: justify;
+}
+
+/* unvisited link */
+a:link {
+    color: lightblue;
+}
+
+/* visited link */
+a:visited {
+    color: darkblue;
+}
+
+/* mouse over link */
+a:hover {
+    text-decoration: underline;
+}
+img {
+    width: 300px ;
+    border-radius: 20px;
+    box-shadow: green;
+}
+table {
+    width: 100%;
+}
+th, td {
+    height: 50px;
+}
+table, th, td {
+    border: 1px solid black;
+    }
+ul, ol li {
+    font-size: x-large;
+}
