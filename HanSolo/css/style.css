@@ -1,0 +1,60 @@
+/* Examen sommatif 1 */
+/* Par Suzanne Huard */
+/* Le 15 mars 2019 */
+
+body {
+    width: 1000px;
+    background-image: url("../img/etoileMort.jpg");
+    background-repeat: no-repeat;
+    background-color: black;
+    margin: auto;
+    display-block;
+}
+img {
+    margin:auto;
+    display:block;
+}
+
+@font-face {
+    src: url("../font/Starjedi.ttf");
+}
+
+h1 {
+    font-size: 140px;
+    font-family: Starjedi.ttf;
+    color: yellow;
+    text-align: center;
+    margin: 0;
+}
+
+h2,h3,h4 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-size: 72px;
+}
+
+h3 {
+    font-size: 60px;
+}
+
+h4 {
+    font-size: 44px;
+}
+
+p {
+    text-align: justify;
+    color: white;
+    font-size: 16px;
+}
+
+a {
+    color: white;
+}
+
+.films {
+  color: yellow;
+}
+
