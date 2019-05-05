@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sommatif 2 - Suzanne Huard/css.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="807">
-              <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+            <state relative-caret-position="773">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
             </state>
           </provider>
         </entry>
@@ -36,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sommatif 2 - Suzanne Huard/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="50" column="6" lean-forward="true" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+            <state relative-caret-position="476">
+              <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -84,7 +84,6 @@
         <option value="$PROJECT_DIR$/Bootrap/index.html" />
         <option value="$PROJECT_DIR$/HanSolo/Test-Suzanne.html" />
         <option value="$PROJECT_DIR$/Test-Suzanne/index.html" />
-        <option value="$PROJECT_DIR$/HelloBootstrap/css.css" />
         <option value="$PROJECT_DIR$/HelloBootstrap/Exercice2.html" />
         <option value="$PROJECT_DIR$/HanSolo/css/style.css" />
         <option value="$PROJECT_DIR$/HelloBootstrap/Exercice5.html" />
@@ -94,17 +93,18 @@
         <option value="$PROJECT_DIR$/HelloBootstrap/index.html" />
         <option value="$PROJECT_DIR$/CoursBoostrap2/css.css" />
         <option value="$PROJECT_DIR$/CoursBoostrap2/index.html" />
-        <option value="$PROJECT_DIR$/Sommatif 2 - Suzanne Huard/css.css" />
         <option value="$PROJECT_DIR$/Sommatif 2 - Suzanne Huard/index.html" />
+        <option value="$PROJECT_DIR$/HelloBootstrap/css.css" />
+        <option value="$PROJECT_DIR$/Sommatif 2 - Suzanne Huard/css.css" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1894" />
-    <option name="y" value="1" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="415" />
+    <option name="y" value="15" />
     <option name="width" value="1314" />
     <option name="height" value="1056" />
   </component>
@@ -214,18 +214,19 @@
       <workItem from="1556971452732" duration="1089000" />
       <workItem from="1556973422950" duration="8243000" />
       <workItem from="1557007111499" duration="17928000" />
-      <workItem from="1557062998184" duration="3743000" />
+      <workItem from="1557062998184" duration="4917000" />
+      <workItem from="1557097838085" duration="639000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138331000" />
+    <option name="totallyTimeSpent" value="140144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20682302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20895523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -449,22 +450,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloBootstrap/css.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-end-line="18" selection-end-column="1" />
+        <state>
+          <caret selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sommatif 2 - Suzanne Huard/css.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="807">
-          <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+        <state relative-caret-position="773">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sommatif 2 - Suzanne Huard/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="50" column="6" lean-forward="true" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        <state relative-caret-position="476">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
         </state>
       </provider>
     </entry>
