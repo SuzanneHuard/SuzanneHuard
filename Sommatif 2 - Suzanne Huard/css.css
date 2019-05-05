@@ -1,0 +1,72 @@
+html,body{
+    margin: 0;
+    height: 100%;
+}
+
+.parallax{
+    background-image: url("img/plage.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h75{
+    height: 75%
+}
+
+.h25{
+    height: 25%
+}
+.carreJaune{
+    background-color: rgba(224, 217, 29, .5);
+}
+
+.carreGris{
+    background-color: rgba(255, 255, 255, .5);
+}
+
+.parallax2{
+    background-image: url("img/bridge.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;
+}
+.croisieres{
+color: white;
+}
+
+.parallax3{
+    background-image: url("img/sihastria-monastery-putnei-213765_1920.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.vert{
+    background-color: green;
+    color: white;
+}
+
+.jaune {
+    background-color: yellow;
+    color: black;
+}
+.bleu {
+
+    background-color: blue;
+    color: white;
+}
+
+.padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.margin {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
