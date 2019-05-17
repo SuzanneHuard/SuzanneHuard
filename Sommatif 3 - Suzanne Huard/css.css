@@ -1,0 +1,57 @@
+html,body{
+    margin: 0;
+    height: 100%;
+}
+
+@font-face {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.parallax{
+    background-image: url("img/ballroom.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.carreGris{
+    background-color: rgba(70, 75, 71, .5);
+    padding: 50px 50px;
+    color: black;
+    text-align: center;
+}
+
+.parallax2{
+    background-image: url("img/dance.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-white{
+    color: white;
+}
+
+.parallax3{
+    background-image: url("img/sihastria-monastery-putnei-213765_1920.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.magenta{
+    background-color: magenta;
+    color: white;
+}
+
+.gris{
+    background-color: slategrey;
+}
+
+.padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
