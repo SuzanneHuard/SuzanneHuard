@@ -4,10 +4,47 @@ html,body{
 }
 
 @font-face {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Crimson Text', serif;
+    src: url("../font/CrimsonText-Regular.ttf");
 }
 
-.parallax{
+h1 {
+    font-family: 'Crimson Text', serif;
+    color: white;
+    font-size: 32px;
+}
+
+h2 {
+    font-family: 'Crimson Text', serif;
+    font-size: 25px;
+}
+
+h3 {
+    font-family: 'Crimson Text', serif;
+    font-size: 20px;
+    color: black;
+}
+
+p {
+    font-family: 'Crimson Text', serif;
+    font-size: 20px;
+    color: white;
+}
+
+text{
+    font-family: 'Crimson Text', serif;
+    font-size: 22px;
+    color: black;
+}
+hr{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    max-width: 1000px;
+    border-width: 4px;
+    border-color: magenta;
+}
+
+.parallax {
     background-image: url("img/ballroom.jpg");
     background-attachment: fixed;
     background-position: center;
@@ -15,43 +52,47 @@ html,body{
     background-size: cover;
 }
 
-.carreGris{
+.carreGris {
     background-color: rgba(70, 75, 71, .5);
     padding: 50px 50px;
-    color: black;
     text-align: center;
 }
 
-.parallax2{
+.parallax2 {
     background-image: url("img/dance.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 .text-white{
     color: white;
 }
 
-.parallax3{
-    background-image: url("img/sihastria-monastery-putnei-213765_1920.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 500px;
-}
-
-.magenta{
-    background-color: magenta;
+.magenta {
+    background-color: darkmagenta;
     color: white;
+    height: 350px;
 }
 
-.gris{
-    background-color: slategrey;
+.gris {
+    background-color: #1b1e21;
+    color: white;
+    height: 350px;
 }
 
 .padding {
     padding-top: 50px;
     padding-bottom: 50px;
+}
+
+.padding2 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.padding3 {
+    padding-top: 15x;
+    padding-bottom: 15px;
 }

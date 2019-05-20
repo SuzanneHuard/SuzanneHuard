@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sommatif 3 - Suzanne Huard/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="97" selection-start-line="11" selection-start-column="97" selection-end-line="11" selection-end-column="97" />
+            <state relative-caret-position="374">
+              <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -36,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sommatif 3 - Suzanne Huard/css.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="654">
+              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -96,8 +96,8 @@
         <option value="$PROJECT_DIR$/HelloBootstrap/css.css" />
         <option value="$PROJECT_DIR$/Sommatif 2 - Suzanne Huard/css.css" />
         <option value="$PROJECT_DIR$/Sommatif 2 - Suzanne Huard/index.html" />
-        <option value="$PROJECT_DIR$/Sommatif 3 - Suzanne Huard/index.html" />
         <option value="$PROJECT_DIR$/Sommatif 3 - Suzanne Huard/css.css" />
+        <option value="$PROJECT_DIR$/Sommatif 3 - Suzanne Huard/index.html" />
       </list>
     </option>
   </component>
@@ -105,10 +105,10 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2007" />
-    <option name="y" value="42" />
+    <option name="x" value="2119" />
+    <option name="y" value="13" />
     <option name="width" value="1314" />
-    <option name="height" value="1056" />
+    <option name="height" value="952" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -125,12 +125,36 @@
             <path>
               <item name="SuzanneHuard" type="b2602c69:ProjectViewProjectNode" />
               <item name="SuzanneHuard" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloBootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="HanSolo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SuzanneHuard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SuzanneHuard" type="462c0819:PsiDirectoryNode" />
+              <item name="HanSolo" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SuzanneHuard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SuzanneHuard" type="462c0819:PsiDirectoryNode" />
+              <item name="HanSolo" type="462c0819:PsiDirectoryNode" />
+              <item name="font" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SuzanneHuard" type="b2602c69:ProjectViewProjectNode" />
               <item name="SuzanneHuard" type="462c0819:PsiDirectoryNode" />
               <item name="Sommatif 3 - Suzanne Huard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SuzanneHuard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SuzanneHuard" type="462c0819:PsiDirectoryNode" />
+              <item name="Sommatif 3 - Suzanne Huard" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SuzanneHuard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SuzanneHuard" type="462c0819:PsiDirectoryNode" />
+              <item name="Sommatif 3 - Suzanne Huard" type="462c0819:PsiDirectoryNode" />
+              <item name="font" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SuzanneHuard" type="b2602c69:ProjectViewProjectNode" />
@@ -156,18 +180,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\Sommatif 3 - Suzanne Huard\img" />
       <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\Sommatif 3 - Suzanne Huard\js" />
       <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\Sommatif 3 - Suzanne Huard\css" />
       <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\Sommatif 3 - Suzanne Huard" />
       <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\CoursBoostrap2\img" />
-      <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\CoursBoostrap2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\Sommatif 3 - Suzanne Huard\img" />
+      <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\Sommatif 3 - Suzanne Huard\font" />
+      <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\Sommatif 3 - Suzanne Huard\css" />
       <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\Sommatif 2 - Suzanne Huard\img" />
       <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\Sommatif 3 - Suzanne Huard" />
-      <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\CoursBoostrap2\img" />
-      <recent name="C:\Users\Suzanne\Dropbox\www\SuzanneHuard\SuzanneHuard\CoursBoostrap2\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -224,17 +248,19 @@
       <workItem from="1557948616196" duration="201000" />
       <workItem from="1557948831685" duration="2903000" />
       <workItem from="1557952721942" duration="9397000" />
-      <workItem from="1558046956417" duration="6049000" />
+      <workItem from="1558046956417" duration="6840000" />
+      <workItem from="1558273416832" duration="22239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162897000" />
+    <option name="totallyTimeSpent" value="185927000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2007" y="42" width="1314" height="1056" extended-state="0" />
+    <frame x="2044" y="0" width="1314" height="1028" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34051037" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23046252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -255,7 +281,7 @@
       <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2217484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15405117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -484,34 +510,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HanSolo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HanSolo/font/Starjedi.ttf">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/HanSolo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sommatif 3 - Suzanne Huard/font/CrimsonText-Regular.ttf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HanSolo/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="37" />
+        <state relative-caret-position="425">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sommatif 3 - Suzanne Huard/css.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="654">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sommatif 3 - Suzanne Huard/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="97" selection-start-line="11" selection-start-column="97" selection-end-line="11" selection-end-column="97" />
+        <state relative-caret-position="374">
+          <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
         </state>
       </provider>
     </entry>
