@@ -1,10 +1,31 @@
 html,body {
-    margin:0;
+    margin: 0;
     height: 100%;
+}
+
+.bg-1{
+    background-image: url("../img/fresh.jpg");
+    height: 800px;
+
+}
+
+.bg-2{
+    background-image: url("../img/paper.jpg");
+    height: 300px;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 .parallax1{
     background-image: url("../img/jardin.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2{
+    background-image: url("../img/fresh.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -19,21 +40,11 @@ html,body {
     background-color: rgba(255, 255, 255, .5);
 }
 
-.bg-1 {
-    background-color: lightgoldenrodyellow;
-    height: 500px;
-}
-
-.bg-2 {
-    background-color: lightslategrey;
-    height: 75px;
-}
-
 h1{
     font-size: 50px;
-    color: black;
+    color: white;
     font: bold;
-    text-align: center;
+    padding-top: 30px;
 }
 
 h2{
@@ -43,20 +54,19 @@ h2{
 
 h3{
     font-size: 30px;
+    color: white;
+}
+
+h3-1{
+    font-size: 30px;
     color: black;
-    text-align: center;
-}
+   }
 
-@media only screen and (max-width: 575px) {
-    .texteh1 { font-size: 30px;
-    }
+hr{
+    border-color: white;
+    border-width: 3px;
+    max-width: 350px;
 }
-
-@media only screen and (max-width: 576px) and (max-width: 1199px) {
-    .texteh2 { font-size: 15px;
-    }
-}
-
 
 .titre1 {
     font-size: 50px;
@@ -64,30 +74,83 @@ h3{
 }
 
 .jumbotron1{
-    background-color: lightslategray;
     text-align: center;
+    background-color: dimgrey;
+    height: 375px
+    padding-bottom: 25px;
+    margin-bottom: 0px;
 }
-
-
 .gris{
-    background-color: grey;
+    background-color: lightslategrey;
     color: black;
 }
 
-.pink {
-    background-color: palevioletred;
-    color: black;
+.noir {
+    background-color: black;
+    color: white;
 }
 
 .p {
     padding-top: 25px;
-    padding-bottom: 2px;
+    padding-bottom: 25px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
-.m {
-    margin-top: 25px;
-    margin-bottom: 25px;
+
+.p2 {
+    padding-top: 0px;
+    padding-bottom: 100px;
 }
+
+.pied-page {
+    font-size: 14px;
+    bold;
+}
+
+.margin {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+/*cellulaire*/
+@media only screen and (max-width: 575px) {
+
+    h1 {
+        font-size: 20px;
+    }
+    h2 {
+        font-size: 16px;
+    }
+    h3, h3-1 {
+    font-size: 12px;
+    }
+
+    .bg-1{
+        background-image: url("../img/oiseau-mq-cell.jpg");
+        height: 400px;
+    }
+}
+
+/*tablettes*/
+@media only screen and (min-width: 576px) and (max-width: 1199px) {
+    h1 {
+        font-size: 24px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    h3, h3-1 {
+        font-size: 16px;
+    }
+    .bg-1{
+        background-image: url("../img/banc-mq-tab.jpg");
+        height: 400px;
+    }
+}
+
+
 
 /* Color Navbar */
 .navbar {

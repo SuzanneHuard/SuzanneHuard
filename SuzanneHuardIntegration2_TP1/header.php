@@ -21,9 +21,9 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-            <a class="nav-item nav-link active" href="index.html">Accueil <span class="sr-only">(current)</span></a>
-            <a class="nav-item nav-link" href="caroussel.html">Caroussel</a>
-            <a class="nav-item nav-link" href="formulaire.html">Formulaire</a>
+            <a class="nav-item nav-link active" href="index.php">Accueil <span class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link" href="caroussel.php">Caroussel</a>
+            <a class="nav-item nav-link" href="formulaire.php">Formulaire</a>
         </div>
     </div>
 </nav>
