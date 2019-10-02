@@ -1,0 +1,83 @@
+html, body {margin:0; height:100%;}
+
+
+.parallax-1 {
+    background-image: url("img/bebe.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h1 {
+    font-size: 36px;
+    color: black;
+}
+
+.h2 {
+    font-size: 30px;
+    color: black;
+}
+
+.h3 {
+    font-size: 26px;
+    color: black;
+}
+
+.h4 {
+    font-size: 16px;
+    color: black;
+}
+
+.h4-title {
+    font-size: 16px;
+    color: white;
+}
+
+.h5 {
+    font-size: 12px;
+    color: black;
+}
+
+.h6 {
+    font-size: 9px;
+    color: black;
+}
+
+.pTop {
+    padding-top: 25px;
+}
+
+.pBottom {
+    padding-bottom: 25px;
+}
+
+.mLR {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+hr {
+    max-width: 50px;
+    border-width: 2px;
+    border-color: #ffffff;
+    margin-left: 1px;
+}
+
+
+.bg-1 {
+    background-color: #12789a;
+    opacity: .25%;
+}
+
+.bg-2 {
+    background-color: #12789a;
+}
+
+.flex-child-1 {
+    border-top: #12789a solid 25px;
+    border-bottom: #12789a solid 25px;
+}
