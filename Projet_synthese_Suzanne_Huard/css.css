@@ -18,6 +18,7 @@ html, body {margin:0; height:100%;}
 .h2 {
     font-size: 30px;
     color: black;
+    text-align:right;
 }
 
 .h3 {
@@ -37,12 +38,17 @@ html, body {margin:0; height:100%;}
 
 .h5 {
     font-size: 12px;
-    color: black;
+    color: dimgrey;
 }
 
 .h6 {
     font-size: 9px;
-    color: black;
+    color: dimgrey;
+}
+
+.pTB {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .pTop {
@@ -50,7 +56,12 @@ html, body {margin:0; height:100%;}
 }
 
 .pBottom {
-    padding-bottom: 25px;
+     padding-bottom: 25px;
+ }
+
+.mTB {
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .mLR {
@@ -60,24 +71,33 @@ html, body {margin:0; height:100%;}
     padding-left: 0px;
 }
 
+
+.mL {
+    margin-left: 10px;
+}
+
 hr {
     max-width: 50px;
     border-width: 2px;
     border-color: #ffffff;
-    margin-left: 1px;
+    margin-left: 2px;
 }
 
 
 .bg-1 {
-    background-color: #12789a;
-    opacity: .25%;
-}
+    background-color: grey;
+ }
 
 .bg-2 {
     background-color: #12789a;
 }
 
-.flex-child-1 {
-    border-top: #12789a solid 25px;
-    border-bottom: #12789a solid 25px;
+.bg-3 {
+    background-color: LightGray;
+}
+
+.row2 {
+    background-color: white;
+    opacity: .5;
+    heigt: 20px;
 }
