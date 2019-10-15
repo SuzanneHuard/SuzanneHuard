@@ -1,6 +1,5 @@
 html, body {margin:0; height:100%;}
 
-
 .parallax-1 {
     background-image: url("img/bebe.jpg");
     height: 100%;
@@ -10,9 +9,34 @@ html, body {margin:0; height:100%;}
     background-size: cover;
 }
 
+
+.a:link {
+    font-size: 36px;
+    color: black;
+}
+
+.a.visited {
+    font-size: 36px;
+    color: black;
+}
+
+.a.hover {
+    font-size: 36px;
+    color: black;
+}
+
+.a.active {
+    font-size: 36px;
+    color: black;
+}
+
 .h1 {
     font-size: 36px;
     color: black;
+}
+
+.marginHaut {
+    margin-top: 50px;
 }
 
 .h2 {
@@ -31,11 +55,6 @@ html, body {margin:0; height:100%;}
     color: black;
 }
 
-.h4-title {
-    font-size: 16px;
-    color: white;
-}
-
 .h5 {
     font-size: 12px;
     color: dimgrey;
@@ -47,16 +66,21 @@ html, body {margin:0; height:100%;}
 }
 
 .pTB {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.pTB1 {
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .pTop {
-    padding-top: 25px;
+    padding-top: 40px;
 }
 
 .pBottom {
-     padding-bottom: 25px;
+     padding-bottom: 40px;
  }
 
 .mTB {
@@ -75,6 +99,14 @@ html, body {margin:0; height:100%;}
 .mL {
     margin-left: 10px;
 }
+
+.mL2 {
+    margin-left: 15px;
+}
+.mBottom {
+    margin-bottom: 20px;
+}
+
 
 hr {
     max-width: 50px;
@@ -96,8 +128,65 @@ hr {
     background-color: LightGray;
 }
 
+.bg-4 {
+    background-image: url("img/moniteurs.jpg")
+}
+
+.bg-5 {
+    background-image: url("img/eau.jpg")
+}
+
+.row1 {
+    height: 75%;
+}
+
 .row2 {
     background-color: white;
-    opacity: .5;
-    heigt: 20px;
+    opacity: .75;
+    heigt: 50%;
+}
+
+
+/***** ACCORDÉON***********/
+
+.accordion {
+    background-color: #12789a;
+    color: #00000;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: 1px;
+    text-align: left;
+    outline: 10px;
+    font-size: 20px;
+    transition: 0.4s;
+}
+
+.active, .accordion:hover {
+    background-color: #ccc;
+}
+
+
+.accordion:after {
+    content: '\02795';
+    font-size: 13px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+
+}
+
+
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    display: block;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+
+.active:after {
+    content: '\2796';
 }
