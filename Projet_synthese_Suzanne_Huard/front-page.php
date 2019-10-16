@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-    <head>
-        <title>Projet synthèse Suzanne Huard</title>
-        <meta charset="UTF-8">
-        <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-        <script src="https://kit.fontawesome.com/4292064977.js" crossorigin="anonymous"></script>
-
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="stylesheet" href="css.css">
-    </head>
-
-<body>
+<?php get_header();?>
 
 <nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top">
     <a class="navbar-brand" href="index.html">Molécules en action</a>
@@ -71,38 +59,38 @@
 <div class="container mTB">
     <div class="row">
         <div class="col-xl-4 col-md-4 col-xs-4">
-        <div class="card-deck">
-            <div class="card">
-                <div class="card-body">
-        <h4 class="card-title margin-top:20px bg-2">Le 10 septembre 2019</h4>
-        <p class="card-text">Les cours d'aquaforme prévus le 11 septembre prochain, à 17 h et à 18 h, sont annulés en raison d'un bris au niveau du système de filtration. Ces cours seront repris à la fin de la session.
-            Nous sommes désolés des inconvénients que cette situation peut vous occasionner. Merci de votre compréhension.</p>
-        <a href="#" class="card-link bg-2"><h4>Pour en savoir davantage</h4></a>
+            <div class="card-deck">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title margin-top:20px bg-2">Le 10 septembre 2019</h4>
+                        <p class="card-text">Les cours d'aquaforme prévus le 11 septembre prochain, à 17 h et à 18 h, sont annulés en raison d'un bris au niveau du système de filtration. Ces cours seront repris à la fin de la session.
+                            Nous sommes désolés des inconvénients que cette situation peut vous occasionner. Merci de votre compréhension.</p>
+                        <a href="#" class="card-link bg-2"><h4>Pour en savoir davantage</h4></a>
+                    </div>
                 </div>
             </div>
         </div>
+
+        <div class="col-xl-4 col-md-4 col-xs-4">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title margin-top:20px bg-2">Le 10 septembre 2019</h4>
+                    <p class="card-text">Les cours d'aquaforme prévus le 11 septembre prochain, à 17 h et à 18 h, sont annulés en raison d'un bris au niveau du système de filtration. Ces cours seront repris à la fin de la session.
+                        Nous sommes désolés des inconvénients que cette situation peut vous occasionner. Merci de votre compréhension.</p>
+                    <a href="#" class="card-link bg-2"><h4>Pour en savoir davantage</h4></a>
+                </div>
+            </div>
         </div>
 
-    <div class="col-xl-4 col-md-4 col-xs-4">
-        <div class="card">
-            <div class="card-body">
-        <h4 class="card-title margin-top:20px bg-2">Le 10 septembre 2019</h4>
-        <p class="card-text">Les cours d'aquaforme prévus le 11 septembre prochain, à 17 h et à 18 h, sont annulés en raison d'un bris au niveau du système de filtration. Ces cours seront repris à la fin de la session.
-            Nous sommes désolés des inconvénients que cette situation peut vous occasionner. Merci de votre compréhension.</p>
-        <a href="#" class="card-link bg-2"><h4>Pour en savoir davantage</h4></a>
+        <div class="col-xl-4 col-md-4 col-xs-4">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title margin-top:20px bg-2">Le 10 septembre 2019</h4>
+                    <p class="card-text">Les cours d'aquaforme prévus le 11 septembre prochain, à 17 h et à 18 h, sont annulés en raison d'un bris au niveau du système de filtration. Ces cours seront repris à la fin de la session.
+                        Nous sommes désolés des inconvénients que cette situation peut vous occasionner. Merci de votre compréhension.</p>
+                    <a href="#" class="card-link bg-2"><h4>Pour en savoir davantage</h4></a>
+                </div>
             </div>
-            </div>
-        </div>
-
-   <div class="col-xl-4 col-md-4 col-xs-4">
-       <div class="card">
-       <div class="card-body">
-        <h4 class="card-title margin-top:20px bg-2">Le 10 septembre 2019</h4>
-        <p class="card-text">Les cours d'aquaforme prévus le 11 septembre prochain, à 17 h et à 18 h, sont annulés en raison d'un bris au niveau du système de filtration. Ces cours seront repris à la fin de la session.
-            Nous sommes désolés des inconvénients que cette situation peut vous occasionner. Merci de votre compréhension.</p>
-        <a href="#" class="card-link bg-2"><h4>Pour en savoir davantage</h4></a>
-            </div>
-             </div>
         </div>
     </div>
 </div>
@@ -123,17 +111,17 @@
         <li data-target="#myCarousel" data-slide-to="2"></li>
     </ul>
 
-<div class="carousel-inner">
-    <div class="carousel-item active">
-        <img class="img-fluid" src="img/C-baigneuse agees.jpg" alt="Baigneuses âgées"/>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img class="img-fluid" src="img/C-baigneuse agees.jpg" alt="Baigneuses âgées"/>
+        </div>
+        <div class="carousel-item">
+            <img class="img-fluid" src="img/Piscine_coupleAine.jpg" alt="Couple"/>
+        </div>
+        <div class="carousel-item">
+            <img class="img-fluid" src="img/C-FemmeAinee.jpg" alt="Femme aînée"/>
+        </div>
     </div>
-    <div class="carousel-item">
-        <img class="img-fluid" src="img/Piscine_coupleAine.jpg" alt="Couple"/>
-    </div>
-    <div class="carousel-item">
-        <img class="img-fluid" src="img/C-FemmeAinee.jpg" alt="Femme aînée"/>
-    </div>
-</div>
     <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
         <span class="carousel-control-prev-icon"></span>
     </a>
@@ -142,34 +130,34 @@
     </a>
 </div>
 
-        <div class="container-fluid bg-3 h-20">
-            <div class="row align-items-center text-left pTop pBottom no-gutters">
-                <div class="col-xl-12 col-md-12">
-                    <h2>CATÉGORIES</h2>
-                </div>
-            </div>
+<div class="container-fluid bg-3 h-20">
+    <div class="row align-items-center text-left pTop pBottom no-gutters">
+        <div class="col-xl-12 col-md-12">
+            <h2>CATÉGORIES</h2>
         </div>
+    </div>
+</div>
 
 
 <div class="container-fluid mLR py-0">
     <div class="row no-gutters">
-                <div class="col-xl-4 col-md-6 col-sm-12 text-center pTB1 bg-2">
-                    <h4>Cours pour enfants</h4>
-                    <img class="img-fluid" src="img/fillette.jpg" alt="Cours pour enfants"/>
+        <div class="col-xl-4 col-md-6 col-sm-12 text-center pTB1 bg-2">
+            <h4>Cours pour enfants</h4>
+            <img class="img-fluid" src="img/fillette.jpg" alt="Cours pour enfants"/>
 
-                </div>
+        </div>
 
 
-                <div class="col-xl-4 col-md-6 col-sm-12 text-center pTB1 bg-2">
-                    <h4 class=>Cours d'aquaforme</h4>
-                    <img class="img-fluid" src="img/aine-aquaforme.jpg" alt="Cours d'aquaforme"/>
+        <div class="col-xl-4 col-md-6 col-sm-12 text-center pTB1 bg-2">
+            <h4 class=>Cours d'aquaforme</h4>
+            <img class="img-fluid" src="img/aine-aquaforme.jpg" alt="Cours d'aquaforme"/>
 
-                 </div>
+        </div>
 
-            <div class="col-xl-4 col-md-6 col-sm-12 text-center pTB1 bg-2">
-                <h4 class=>Cours pour bébés</h4>
-                    <img class="img-fluid" src="img/enfants3.jpg" alt="Cours pour bébés"/>
-            </div>
+        <div class="col-xl-4 col-md-6 col-sm-12 text-center pTB1 bg-2">
+            <h4 class=>Cours pour bébés</h4>
+            <img class="img-fluid" src="img/enfants3.jpg" alt="Cours pour bébés"/>
+        </div>
     </div>
 </div>
 
@@ -183,10 +171,10 @@
             <h6>Accueil<br>
                 Cours et activités<br>
                 Nous joindre<br>
-<hr>
-        Suivez-nous<br>
-        Abonnez-vous à notre infolettre<br>
-        <button type="button" class="btn btn-light mTB">Votre courriel</button></h6>
+                <hr>
+                Suivez-nous<br>
+                Abonnez-vous à notre infolettre<br>
+                <button type="button" class="btn btn-light mTB">Votre courriel</button></h6>
         </div>
 
         <div class="col-xl-3 col-md-6">
@@ -196,29 +184,29 @@
             </h6>
         </div>
 
-            <div class="col-xl-3 col-md-6">
-                <h5>POUR NOUS JOINDRE</h5>
-                <h6>Par téléphone :<br>
+        <div class="col-xl-3 col-md-6">
+            <h5>POUR NOUS JOINDRE</h5>
+            <h6>Par téléphone :<br>
                 819 775-3551<br>
 
                 Par courriel :<br>
                 info@moleculesenaction.ca</h6>
-            </div>
+        </div>
 
         <div class="col-xl-3 col-md-6">
             <h5>INFORMATIONS</h5>
             <h6>Politique de tarification<br>
                 Politique administrative</br>
                 Liste de prix<br>
-                </h6>
+            </h6>
             <a href="https://www.facebook.com/pages/Molecules-En-Action/1697031273901397" i class="fab fa-facebook-square" style="font-size:36px"></i></a>
             <i class="fab fa-instagram"  style="font-size:36px"></i>
             <i class="fab fa-twitter-square"  style="font-size:36px"></i>
 
         </div>
 
-        </div>
     </div>
+</div>
 </div>
 
 
@@ -231,12 +219,4 @@
     </div>
 </div>
 
-
-
-
-
-    <script src="jquery-3.3.1.js"></script>
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script> -->
-    <script src="js/bootstrap.js"></script>
-</body>
-</html>
+<?php get_footer();?>
